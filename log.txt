@@ -1,0 +1,432 @@
+User: Vanitha off any sound sound
+AI: User Query
+
+User: Anita
+AI: User Query
+
+User: Vanitha
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: mummy
+AI: User Query
+
+User: mummy
+AI: User Query
+
+User: hy
+AI: User Query
+
+User: hi man how are you
+AI: User Query
+
+User: Opened WhatsApp
+AI: AI Response
+
+User: Sent WhatsApp message to mummy
+AI: AI Response
+
+User: stop listening
+AI: User Query
+
+User: exit
+AI: User Query
+
+User: exit
+AI: User Query
+
+User: exit
+AI: User Query
+
+User: exit
+AI: User Query
+
+User: open spotify
+AI: User Query
+
+User: Opened Spotify
+AI: AI Response
+
+User: Huawei yeah
+AI: User Query
+
+User: what's the weather tomorrow
+AI: User Query
+
+User: Coimbatore
+AI: User Query
+
+User: Asked about weather in Coimbatore
+AI: AI Response: Weather details provided
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: hi this my last attempt
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: read my notes
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: write a note
+AI: User Query
+
+User: Tony
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: write a note
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Tony
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: I am pregnant
+AI: User Query
+
+User: write a note
+AI: User Query
+
+User: Command: Write a note
+AI: AI Response: Note written
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: establishing
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: send a message
+AI: User Query
+
+User: 9361 648407
+AI: User Query
+
+User: hi I am there
+AI: User Query
+
+User: Command: Send a message to +919361 648407
+AI: AI Response: Message sent successfully
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: WhatsApp message
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: send a WhatsApp message
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: exit
+AI: User Query
+
+User: exit
+AI: User Query
+
+User: Stark
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: send a
+AI: User Query
+
+User: 100
+AI: User Query
+
+User: Stark
+AI: User Query
+
+User: send a WhatsApp message
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: send a mail
+AI: User Query
+
+User: hi how are you Sharma
+AI: User Query
+
+User: hi how are you
+AI: User Query
+
+User: lala lala
+AI: User Query
+
+User: p r i t h i v 936
+AI: User Query
+
+User: p r i t h i v 936
+AI: User Query
+
+User: p r i t h i v 936
+AI: User Query
+
+User: Error sending email
+AI: AI Response
+
+User: send a mail
+AI: User Query
+
+User: send a mail
+AI: User Query
+
+User: hi how are you
+AI: User Query
+
+User: lulu lulu lulu lulu lulu lulu lulu lulu lulu ke gane
+AI: User Query
+
+User: p r i t h i v 936
+AI: User Query
+
+User: Email sent to prithiv936@gmail.com
+AI: AI Response
+
+User: send a WhatsApp message
+AI: User Query
+
+User: Unrecognized command
+AI: AI Response: Please repeat or ask something else
+
+User: exit
+AI: User Query
+
+User: Prithviraj Jain
+AI: User Query
+
+User: Prithviraj
+AI: User Query
+
+User: what's your name
+AI: User Query
+
+User: what's your name
+AI: User Query
+
+User: Tony
+AI: User Query
+
+User: Jan what's your name
+AI: User Query
+
+User: Stark
+AI: User Query
+
+User: open Chrome can open Chrome
+AI: User Query
+
+User: vinicius
+AI: User Query
+
+User: code zero
+AI: User Query
+
